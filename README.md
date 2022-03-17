@@ -1,3 +1,9 @@
-# This is a title
+---
+coverY: 0
+---
 
-And this is a paragraph. Or a sentence at least.
+# Welcome!
+
+## Welcome aboard!
+
+Welcome to the Max Inc wiki! Here you'll find everything you need to know about the company.
